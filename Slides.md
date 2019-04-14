@@ -46,7 +46,7 @@ Go and versioning series from Russ Cox:
 
 * https://research.swtch.com/vgo
 
-67 pages. XXX: Link to concatenated version.
+[67 pages](vgo-all.pdf).
 
 ----
 
