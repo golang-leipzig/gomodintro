@@ -276,7 +276,7 @@ Theory plus some helpers for the real world.
 
 ----
 
-# Reproducible builds -- &mdash; part 5
+# Reproducible builds &mdash; part 5
 
 * https://research.swtch.com/vgo-repro (Part 5)
 
